@@ -1,0 +1,7 @@
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\looping\looping\obj\Debug\looping.csprojAssemblyReference.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\looping\looping\obj\Debug\looping.csproj.CoreCompileInputs.cache
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\looping\looping\bin\Debug\looping.exe.config
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\looping\looping\bin\Debug\looping.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\looping\looping\bin\Debug\looping.pdb
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\looping\looping\obj\Debug\looping.exe
+C:\Users\dewijw1\OneDrive - Nuclear Electric Insurance Limited\Courses\IntroToCsharp\looping\looping\obj\Debug\looping.pdb
